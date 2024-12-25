@@ -1,16 +1,24 @@
-## Hi there 👋
+##👨‍💻 About Me
+Hi there! I'm Yash Sandip Shirke, a passionate Computer Engineer 🖥️ from Mumbai, India 🇮🇳.
 
-<!--
-**yash240603/yash240603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-I'm driven by the desire to build innovative solutions 🚀 and explore the intersections of AI, machine learning, and aerospace technology. 🌌
 
-Here are some ideas to get you started:
+- What I Do
+-🔭 Currently working on an AI-based podcast application as part of my final year project.
+-🏆 Awarded Best Student Award 🏅 by CSI TechNext India 2024 for my Forecast Demand System project.
+-🧠 Love exploring machine learning 🤖 and data science 📊.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🌱 My Journey
+-🤝 Interned at IBM, where I developed a customer churn prediction model using Random Forest.
+-🌍 Represented my college at Ural Federal University, Russia, and led my team to win the Best Project Award for our work on Forecast Demand System.
+-🎸 Beyond tech, I'm a musician 🎶 and a part of my college's cultural committee.
+
+-Constantly learning and upskilling to solve real-world problems and make an impact! 🌍
+
+-🛠️ Tech Stack
+-💻 Programming: Python 🐍, Java ☕, C++.
+-📊 ML Frameworks: TensorFlow, Scikit-learn, Time-series, and more.
+-🌐 Web Development: HTML, CSS, JavaScript.
+-🛠️ Tools: Git, Docker, Kubernetes.
+
+-📫 Let's Connect!
